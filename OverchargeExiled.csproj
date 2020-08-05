@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp.dll">
+      <HintPath>..\Exiled\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.API.dll">
+      <HintPath>..\Exiled\Exiled.API.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Events.dll">
+      <HintPath>..\Exiled\Exiled.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Loader.dll">
+      <HintPath>..\Exiled\Exiled.Loader.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
